@@ -1,7 +1,7 @@
 {
   "name": "frontend",
-  "homepage": "https://anisha308.github.io/Assignment_Ellty/",
-  "private": true,
+  "homepage": "http://anisha308.github.io/Assignment_Ellty/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
